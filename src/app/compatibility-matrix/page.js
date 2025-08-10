@@ -22,7 +22,7 @@ export default function CompatibilityMatrix() {
                 </div>
 
                 <div className="container max-w-[1920px] mx-auto relative z-10 px-4">
-                    <div className="relative flex justify-center items-center uppercase py-12 text-[#d1d5db] text-center">
+                    <div className="relative flex justify-center items-center py-12 text-[#d1d5db] text-center">
                         <div className="absolute inset-0 flex justify-center items-center -z-10">
                             <div className="w-[50em] h-[1.875em] bg-[rgba(156,163,175,0.2)] blur-[75px]" />
                         </div>

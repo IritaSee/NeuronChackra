@@ -21,7 +21,7 @@ export default function PersonalMatrix() {
         </div>
 
         <div className="container max-w-screen-xl mx-auto px-4 sm:px-6 md:px-10 relative z-10">
-          <div className="relative flex justify-center items-center uppercase py-16 text-white">
+          <div className="relative flex justify-center items-center py-16 text-white">
             <div className="absolute inset-0 flex justify-center items-center -z-10">
               <div className="w-[50em] h-[1.875em] bg-[#fef9c340] blur-[75px]" />
             </div>
