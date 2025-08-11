@@ -101,7 +101,7 @@ Dengan mendalami Karmic Tail Anda, Anda membuka rahasia takdir Anda. Anda mulai 
   return (
     <div className="flex bg-gradient-to-b from-gray-950 via-black to-gray-900 text-white">
       <nav className="hidden lg:flex flex-col w-64 px-6 py-12 border-r border-gray-800 sticky top-0 h-screen overflow-y-auto">
-        <h2 className="text-lg font-semibold text-gray-300 mb-4 uppercase tracking-wide">Table of Contents</h2>
+        <h2 className="text-lg font-semibold text-gray-300 mb-4 tracking-wide">Table of Contents</h2>
         <ul className="space-y-3">
           {sections.map((section) => (
             <li key={section.id}>
